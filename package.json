@@ -1,6 +1,6 @@
 {
   "name": "print-markdown",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Print markdown to your terminal via marked and marked-terminal",
   "bin": {
     "print-markdown": "./index.js",
